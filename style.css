@@ -77,6 +77,16 @@ section.imagem{
     background-position: right center;
 
 }
+#imagem2{
+    background-image: url('imagens/background002.jpg');
+}   
+
+.caixap1{
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.522);
+    padding: 5px;
+    text-shadow: 1px 1px 1px black;
+}
 
 
  footer {
@@ -84,4 +94,6 @@ section.imagem{
     text-align: center;
     color: white;
     padding: 10px;
+    
  }
+ 
